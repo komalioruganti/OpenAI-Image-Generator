@@ -1,0 +1,45 @@
+.App{
+text-align:center;
+}
+.logo{
+width:100px;
+position:absolute;
+top:30px;
+left:30px;
+}
+.promt-input{
+  position: absolute;
+  top: 130px;
+  width :700px;
+  height: 35px;
+  left:150px;
+}
+.generate-button{
+  position: absolute;
+  height: 40px;
+  top: 130px;
+  left:860px;
+  width:100px;
+  border: 1px;
+  background-color: rgb(150, 9, 178);
+  color:white;
+  border-radius: 3px;
+}
+.input-box{
+  width:40px;
+  height:30px;
+  margin-bottom:30px;
+}
+.main-button{
+  background-color:black;
+  border-radius:3px;
+  color:white;
+  width:100px;
+  height:40px;
+
+}
+
+
+
+
+
